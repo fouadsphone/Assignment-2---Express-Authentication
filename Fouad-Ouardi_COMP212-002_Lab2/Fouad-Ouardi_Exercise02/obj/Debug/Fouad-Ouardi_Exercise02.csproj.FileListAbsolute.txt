@@ -1,0 +1,8 @@
+C:\Users\fouar\source\repos\Fouad-Ouardi_COMP212-002_Lab2\Fouad-Ouardi_Exercise02\bin\Debug\Fouad-Ouardi_Exercise02.exe.config
+C:\Users\fouar\source\repos\Fouad-Ouardi_COMP212-002_Lab2\Fouad-Ouardi_Exercise02\bin\Debug\Fouad-Ouardi_Exercise02.exe
+C:\Users\fouar\source\repos\Fouad-Ouardi_COMP212-002_Lab2\Fouad-Ouardi_Exercise02\bin\Debug\Fouad-Ouardi_Exercise02.pdb
+C:\Users\fouar\source\repos\Fouad-Ouardi_COMP212-002_Lab2\Fouad-Ouardi_Exercise02\obj\Debug\Fouad-Ouardi_Exercise02.csproj.AssemblyReference.cache
+C:\Users\fouar\source\repos\Fouad-Ouardi_COMP212-002_Lab2\Fouad-Ouardi_Exercise02\obj\Debug\Fouad-Ouardi_Exercise02.csproj.SuggestedBindingRedirects.cache
+C:\Users\fouar\source\repos\Fouad-Ouardi_COMP212-002_Lab2\Fouad-Ouardi_Exercise02\obj\Debug\Fouad-Ouardi_Exercise02.csproj.CoreCompileInputs.cache
+C:\Users\fouar\source\repos\Fouad-Ouardi_COMP212-002_Lab2\Fouad-Ouardi_Exercise02\obj\Debug\Fouad-Ouardi_Exercise02.exe
+C:\Users\fouar\source\repos\Fouad-Ouardi_COMP212-002_Lab2\Fouad-Ouardi_Exercise02\obj\Debug\Fouad-Ouardi_Exercise02.pdb
